@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-<!--
-**nwolisaemmanuel2/nwolisaemmanuel2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Emmanuel 🤖**
 
-Here are some ideas to get you started:
+I love working with the developer community on a global scale, i build cool things, speaking at conferences. I'm a Senior Software Engineer. i love contributing to open source project.
+💬 Ask me about: Program Management, NodeJS, Html5, C++, PHP, Laravel, Testing, Open Source, Web, Community
+
+ What I do:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
