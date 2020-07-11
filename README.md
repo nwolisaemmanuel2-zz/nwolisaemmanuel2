@@ -14,7 +14,6 @@ I love working with the developer community on a global scale, i build cool thin
 - 👯 I’m looking to collaborate on amazing product with an awesome People
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Program Management, NodeJS, Html5, C++, PHP, Laravel, Testing, Open Source, Web, Community.
-- 📫 How to reach me: [@nwolisaemmanuel](https://twitter.com/ekecoding)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: [@nwolisaemmanuel](https://twitter.com/ekecoding).
+
 
