@@ -2,10 +2,10 @@
 
 **I'm Emmanuel 🤖**
 
-I love working with the developer community on a global scale, i build cool things, speaking at conferences. I'm a Senior Software Engineer. i love contributing to open source project.
+I love working with the developer community on a global scale, i build cool things, speaking at conferences. I'm a Senior Software Engineer. i love contributing to open source project. Ask me about Program Management, NodeJS, Html5, C++, PHP, Laravel, Testing, Open Source, Web, Community.
 
-💬 Ask me about: Program Management, NodeJS, Html5, C++, PHP, Laravel, Testing, Open Source, Web, Community
- What I do:
+
+ **What I do:**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
