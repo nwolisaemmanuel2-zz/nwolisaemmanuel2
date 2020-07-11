@@ -8,7 +8,7 @@ I love working with the developer community on a global scale, i build cool thin
  **What I do:**
 
 - Speak at Conferences ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning C#
 - 🔭 I’m currently building Free open source community in Africa, Ghana  [Free Open Source Universe](https://twitter.com/fosuniverse). 
 * A lead at [Dev Careers](https://twitter.com/dev_careers)
 - 👯 I’m looking to collaborate on amazing product with an awesome People
