@@ -4,7 +4,6 @@
 
 I love working with the developer community on a global scale, i build cool things, speaking at conferences. I'm a Senior Software Engineer. i love contributing to open source project.
 
-
  What I do:
 
 - 🔭 I’m currently working on ...
